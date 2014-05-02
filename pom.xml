@@ -22,6 +22,9 @@
 
     <dependencies>
 
+
+
+
         <!-- CRUNCH : These are repeated in the profile and necessary for compilation
             even without the profile -->
         <dependency>
